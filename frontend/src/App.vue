@@ -26,7 +26,7 @@
 </template>
 
 <script>
-  // JavaScript код
+
 </script>
 
 <style scoped>
